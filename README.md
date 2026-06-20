@@ -95,3 +95,5 @@ Una vez que el servidor reporte estar listo, abre tu navegador en:
 * **DeepFace** — Framework de análisis facial inmersivo.
 * **OpenCV** — Localización y procesamiento espacial del rostro.
 * **HTML5 / CSS3 / JavaScript (ES6)** — Frontend premium inmersivo sin dependencias pesadas.
+
+Se verificó que la app funciona en máquina local, asi como analicé el funcionamiento
